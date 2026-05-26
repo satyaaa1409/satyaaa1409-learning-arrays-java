@@ -17,6 +17,6 @@ public class Main {
                 count++;
             }
         }
-        System.out.println("The even numbers are " + count);
+        System.out.println("Count of even numbers is " + count);
     }
 }
